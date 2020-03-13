@@ -1,0 +1,8 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org.demo.model">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <application android:name=".app.App" />
+
+</manifest>
+
